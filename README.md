@@ -6,7 +6,8 @@ There are 3 possible outcomes of an FPGA flick: perfect catch, good catch, and m
 movement detection, and formatting the 7seg display. The game is multiplayer using an AWS server for communication, synchronizing game start, displaying the other player’s score, and interactive power-ups. Score data is stored in a DynamoDB on the server to produce a top-10 leaderboard.
 
 
-![image](https://github.com/nlewxxs/information-not-processing/assets/69715492/e7fd0077-de35-42c6-92d4-745c81533d6c)
+![image](https://github.com/anish-narain/Netflicks/assets/69715492/fc509658-33bb-4b6a-948b-79ebaa7492f9)
+
 
 
 
